@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=wilsonespina&show_icons=true&theme=dracula)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=wilsonespina&show_icons=true&theme=dracula) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonespina&theme=dracula)](https://github.com/wilsonespina/github-readme-stats)
 
