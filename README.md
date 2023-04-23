@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer based in Wellington, New Zealand specialising in making beautiful websites.
+I'm a Software Engineer based in Wellington, New Zealand, specialising in making beautiful websites.
 
 [wilsonespina.com](https://wilsonespina.com)
 
