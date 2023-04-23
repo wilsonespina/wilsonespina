@@ -6,7 +6,7 @@ I'm a Software Engineer based in Wellington, New Zealand, specialising in making
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=wilsonespina&show_icons=true&theme=dracula) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonespina&theme=dracula)](https://github.com/wilsonespina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonespina&theme=dracula&layout=compact)](https://github.com/wilsonespina/github-readme-stats)
 
 <!--
 **wilsonespina/wilsonespina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
