@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based in Wellington, New Zealand, specialising in making beautiful websites.
 
-<a herf="https://wilsonespina.com" target="_blank">https://wilsonespina.com</a>
+<a href="https://wilsonespina.com" target="_blank">https://wilsonespina.com</a>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=wilsonespina&show_icons=true&theme=dracula) -->
 
