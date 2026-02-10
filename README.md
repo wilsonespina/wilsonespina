@@ -5,10 +5,6 @@ I'm a Software Engineer based in Wellington, New Zealand, specialising in making
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=wilsonespina&show_icons=true&theme=dracula) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonespina&theme=dracula&layout=compact)](https://github.com/wilsonespina/github-readme-stats)
-
-<br/>
-
 ## Portfolio Links
 
 <a href="https://wilsonespina.com" target="_blank">https://wilsonespina.com</a>
